@@ -1,7 +1,6 @@
-# Deep-Learning
 # Deep Learning Study
 
-This repository documents my study of deep learning based on **"혼자 공부하는 머신러닝+딥러닝"** and additional experiments implemented in Python using TensorFlow/Keras.
+This repository documents my study of deep learning and additional experiments implemented in Python using TensorFlow/Keras.
 
 ---
 
